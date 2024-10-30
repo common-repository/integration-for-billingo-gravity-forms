@@ -1,0 +1,709 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Integration for Billingo & Gravity Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-10 11:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: integration-for-billingo-gravity-forms"
+
+#: class-gf-billingo.php:319
+msgid "A note visible on the invoice"
+msgstr ""
+
+#: class-gf-billingo.php:118
+msgid ""
+"Acitvate the PRO version using the license key you bought on <a href=\"https:"
+"//visztpeter.me\" target=\"_blank\">visztpeter.me</a>."
+msgstr ""
+
+#: class-gf-billingo.php:132
+msgid "Activate"
+msgstr ""
+
+#: class-gf-billingo.php:470
+msgid "Address (street, number)"
+msgstr ""
+
+#: class-gf-billingo.php:1517
+msgid "Advance payment"
+msgstr ""
+
+#: class-gf-billingo.php:154 class-gf-billingo.php:267
+msgid "API V3 key"
+msgstr ""
+
+#: class-gf-billingo.php:292
+msgid "Automatic invoicing"
+msgstr ""
+
+#: class-gf-billingo.php:338
+msgid "Bank account"
+msgstr ""
+
+#: class-gf-billingo.php:1514
+msgid "Barion"
+msgstr ""
+
+#: class-gf-billingo.php:1515
+msgid "Barter"
+msgstr ""
+
+#: class-gf-billingo.php:607
+msgid "Bekapcsolás"
+msgstr ""
+
+#: class-gf-billingo.php:1537
+msgid "Bill of exchange"
+msgstr ""
+
+#: class-gf-billingo.php:149
+msgid "Billingo account settings"
+msgstr ""
+
+#: class-gf-billingo.php:1055
+#, php-format
+msgid "Billingo invoice generation failed! Error code: %s"
+msgstr ""
+
+#: class-gf-billingo.php:880
+#, php-format
+msgid ""
+"Billingo invoice generation failed! Unable to create customer. Error code: %s"
+msgstr ""
+
+#: class-gf-billingo.php:1098
+msgid ""
+"Billingo proform invoice successfully generated and sent to the customer."
+msgstr ""
+
+#: class-gf-billingo.php:1100
+msgid "Billingo proform invoice successfully generated."
+msgstr ""
+
+#: class-gf-billingo.php:1109
+msgid "Billingo proform invoice successfully generated. Invoice number: "
+msgstr ""
+
+#: class-gf-billingo.php:1175
+#, php-format
+msgid "Billingo reverse invoice generation failed! Error code: %s"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Billingo összeköttetés automatikus számlakészítéshez a Gravity Forms-ban "
+"készített űrlapokhoz(nem hivatalos bővítmény)"
+msgstr ""
+
+#: includes/views/html-notice-welcome.php:14
+msgid "Buy the PRO version"
+msgstr ""
+
+#: class-gf-billingo.php:263
+msgid "Can be anything, like invoice generation"
+msgstr ""
+
+#: class-gf-billingo.php:1520
+msgid "Cash"
+msgstr ""
+
+#: class-gf-billingo.php:1536
+msgid "Cash on delivery"
+msgstr ""
+
+#: class-gf-billingo.php:456
+msgid "City"
+msgstr ""
+
+#: class-gf-billingo.php:442
+msgid "Company"
+msgstr ""
+
+#: class-gf-billingo.php:1518
+msgid "Compensation"
+msgstr ""
+
+#: class-gf-billingo.php:731
+msgid "Completed"
+msgstr ""
+
+#: class-gf-billingo.php:542 class-gf-billingo.php:545
+msgid "Conditional mode"
+msgstr ""
+
+#: class-gf-billingo.php:449
+msgid "Country"
+msgstr ""
+
+#: class-gf-billingo.php:1519
+msgid "Coupon"
+msgstr ""
+
+#: class-gf-billingo.php:1513
+msgid "Credit card"
+msgstr ""
+
+#: class-gf-billingo.php:380
+msgid "Croatian"
+msgstr ""
+
+#: class-gf-billingo.php:416
+msgid "Customer details"
+msgstr ""
+
+#: class-gf-billingo.php:130
+msgid "Deactivate"
+msgstr ""
+
+#: class-gf-billingo.php:1521
+msgid "Deduction"
+msgstr ""
+
+#: class-gf-billingo.php:1371
+msgid "Documentation"
+msgstr ""
+
+#: class-gf-billingo.php:720 class-gf-billingo.php:771
+msgid "Download"
+msgstr ""
+
+#: class-gf-billingo.php:126
+msgid "E-mail address used for purchase"
+msgstr ""
+
+#: class-gf-billingo.php:123
+msgid "E-mail address:"
+msgstr ""
+
+#: class-gf-billingo.php:280 class-gf-billingo.php:561
+msgid "Electronic"
+msgstr ""
+
+#: class-gf-billingo.php:421
+msgid "Email address"
+msgstr ""
+
+#: class-gf-billingo.php:368
+msgid "English"
+msgstr ""
+
+#: class-gf-billingo.php:484
+msgid "EU Adószám"
+msgstr ""
+
+#: class-gf-billingo.php:1082 class-gf-billingo.php:1185
+msgid "Failed to create a download link for the invoice."
+msgstr ""
+
+#: class-gf-billingo.php:1173
+msgid "Failed to create a reverse invoice."
+msgstr ""
+
+#: class-gf-billingo.php:1071
+msgid "Failed to email invoice."
+msgstr ""
+
+#: class-gf-billingo.php:1295
+#, php-format
+msgid "Failed to mark the Billingo invoice as paid! Error code: %s"
+msgstr ""
+
+#: class-gf-billingo.php:1293
+msgid "Failed to mark the invoice as paid."
+msgstr ""
+
+#: class-gf-billingo.php:259
+msgid "Feed name"
+msgstr ""
+
+#: class-gf-billingo.php:435
+msgid "First name"
+msgstr ""
+
+#: class-gf-billingo.php:531
+msgid "For example pcs"
+msgstr ""
+
+#: class-gf-billingo.php:376
+msgid "French"
+msgstr ""
+
+#: class-gf-billingo.php:754
+msgid "Fullfilment date"
+msgstr ""
+
+#: class-gf-billingo.php:544
+msgid "Generate invoice, if "
+msgstr ""
+
+#: class-gf-billingo.php:514
+msgid "Generate items based on the products"
+msgstr ""
+
+#: class-gf-billingo.php:744
+msgid "Genrate invoice"
+msgstr ""
+
+#: class-gf-billingo.php:364
+msgid "German"
+msgstr ""
+
+#: includes/views/html-notice-welcome.php:10
+msgid "Gravity Forms + Billingo"
+msgstr ""
+
+#: class-gf-billingo.php:1516
+msgid "Health insurance card"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://visztpeter.me"
+msgstr ""
+
+#: class-gf-billingo.php:360
+msgid "Hungarian"
+msgstr ""
+
+#: class-gf-billingo.php:271
+msgid "If left empty, it will use the value set in plugin settings"
+msgstr ""
+
+#: class-gf-billingo.php:399
+msgid ""
+"If turned on, Billingo will email the customer about the invoice "
+"automatically."
+msgstr ""
+
+#: includes/views/html-notice-request-review.php:8
+#, php-format
+msgid ""
+"If you like the %sGravity Forms Billingo%s extension, please leave a rating "
+"on WordPress.org, it just takes a minute to do. Thanks!"
+msgstr ""
+
+#: includes/views/html-notice-welcome.php:12
+msgid ""
+"In order to use every function, like automatic invoicing, language settings "
+"and more, you might need the PRO version."
+msgstr ""
+
+#. Name of the plugin
+msgid "Integration for Billingo & Gravity Forms"
+msgstr ""
+
+#: class-gf-billingo.php:760
+msgid "Invoice"
+msgstr ""
+
+#: class-gf-billingo.php:346
+msgid "Invoice block"
+msgstr ""
+
+#: class-gf-billingo.php:727 class-gf-billingo.php:1113
+msgid "Invoice generated and sent to the customer."
+msgstr ""
+
+#: includes/views/html-notice-error.php:10
+msgid "Invoice generation failed"
+msgstr ""
+
+#: class-gf-billingo.php:1062
+msgid "Invoice generation failed for an unknown reason."
+msgstr ""
+
+#: class-gf-billingo.php:1053
+msgid "Invoice generation failed."
+msgstr ""
+
+#: class-gf-billingo.php:354
+msgid "Invoice language"
+msgstr ""
+
+#: class-gf-billingo.php:499
+msgid "Invoice line items"
+msgstr ""
+
+#: class-gf-billingo.php:1161 class-gf-billingo.php:1255
+msgid "Invoice not found."
+msgstr ""
+
+#: class-gf-billingo.php:396
+msgid "Invoice notification"
+msgstr ""
+
+#: class-gf-billingo.php:728
+msgid "Invoice number:"
+msgstr ""
+
+#: class-gf-billingo.php:255
+msgid "Invoice settings"
+msgstr ""
+
+#: class-gf-billingo.php:1115
+msgid "Invoice successfully generated."
+msgstr ""
+
+#: class-gf-billingo.php:1124
+msgid "Invoice successfully generated. Invoice number: "
+msgstr ""
+
+#: class-gf-billingo.php:1306 class-gf-billingo.php:1308
+msgid "Invoice successfully marked as paid"
+msgstr ""
+
+#: class-gf-billingo.php:1300
+msgid "Invoice successfully marked as paid."
+msgstr ""
+
+#: class-gf-billingo.php:274 class-gf-billingo.php:555
+#: class-gf-billingo.php:757
+msgid "Invoice type"
+msgstr ""
+
+#: class-gf-billingo.php:372
+msgid "Italian"
+msgstr ""
+
+#: class-gf-billingo.php:521
+msgid "Item name"
+msgstr ""
+
+#: class-gf-billingo.php:528
+msgid "Item quantity unit"
+msgstr ""
+
+#: class-gf-billingo.php:313
+msgid "Just enter a number"
+msgstr ""
+
+#: class-gf-billingo.php:428
+msgid "Last name"
+msgstr ""
+
+#: class-gf-billingo.php:125
+msgid "License key"
+msgstr ""
+
+#: class-gf-billingo.php:122
+msgid "License key:"
+msgstr ""
+
+#: class-gf-billingo.php:502
+msgid "Line items"
+msgstr ""
+
+#: class-gf-billingo.php:1512
+msgid "Loan"
+msgstr ""
+
+#: class-gf-billingo.php:304
+msgid "Mark as paid"
+msgstr ""
+
+#: class-gf-billingo.php:733
+msgid "Marked as paid"
+msgstr ""
+
+#: class-gf-billingo.php:554
+msgid "Name"
+msgstr ""
+
+#: includes/views/html-notice-request-review.php:12
+msgid "No, thanks"
+msgstr ""
+
+#: class-gf-billingo.php:1553
+msgid "None"
+msgstr ""
+
+#: class-gf-billingo.php:317 class-gf-billingo.php:750
+msgid "Note"
+msgstr ""
+
+#: class-gf-billingo.php:1522
+msgid "Online credit card"
+msgstr ""
+
+#: class-gf-billingo.php:742
+msgid "Options"
+msgstr ""
+
+#: includes/views/html-notice-error.php:13
+msgid "Order details"
+msgstr ""
+
+#: class-gf-billingo.php:538
+msgid "Other settings"
+msgstr ""
+
+#: class-gf-billingo.php:284 class-gf-billingo.php:561
+msgid "Paper"
+msgstr ""
+
+#: class-gf-billingo.php:1526
+msgid "Paylike"
+msgstr ""
+
+#: class-gf-billingo.php:310 class-gf-billingo.php:752
+msgid "Payment deadline(days)"
+msgstr ""
+
+#: class-gf-billingo.php:407
+msgid "Payment method"
+msgstr ""
+
+#: class-gf-billingo.php:1527
+msgid "Payoneer"
+msgstr ""
+
+#: class-gf-billingo.php:1523
+msgid "PayPal"
+msgstr ""
+
+#: class-gf-billingo.php:1524
+msgid "PayPal post-paid"
+msgstr ""
+
+#: class-gf-billingo.php:1525
+msgid "PayU"
+msgstr ""
+
+#: class-gf-billingo.php:533
+msgid "pcs"
+msgstr ""
+
+#: class-gf-billingo.php:491
+msgid "Phone number"
+msgstr ""
+
+#: class-gf-billingo.php:1528
+msgid "Pick Pack Pont"
+msgstr ""
+
+#: class-gf-billingo.php:1529
+msgid "Post office cheque"
+msgstr ""
+
+#: class-gf-billingo.php:1530
+msgid "Postal voucher"
+msgstr ""
+
+#: class-gf-billingo.php:463
+msgid "Postcode"
+msgstr ""
+
+#: class-gf-billingo.php:144
+msgid "PRO version"
+msgstr ""
+
+#: class-gf-billingo.php:121
+msgid "PRO version is active"
+msgstr ""
+
+#: class-gf-billingo.php:298 class-gf-billingo.php:764
+msgid "Proform"
+msgstr ""
+
+#: class-gf-billingo.php:1223
+msgid "Refresh this page to generate a new invoice."
+msgstr ""
+
+#: includes/views/html-notice-request-review.php:11
+msgid "Remind me later"
+msgstr ""
+
+#: class-gf-billingo.php:384
+msgid "Romanian"
+msgstr ""
+
+#: class-gf-billingo.php:1554
+msgid "Round to 1"
+msgstr ""
+
+#: class-gf-billingo.php:1556
+msgid "Round to 10"
+msgstr ""
+
+#: class-gf-billingo.php:1555
+msgid "Round to 5"
+msgstr ""
+
+#: class-gf-billingo.php:331
+msgid "Rounding"
+msgstr ""
+
+#: class-gf-billingo.php:1370 includes/views/html-notice-welcome.php:15
+msgid "Settings"
+msgstr ""
+
+#: class-gf-billingo.php:150
+msgid ""
+"Sign in into your Billingo account and generate a new API V3 key. Next, go "
+"to the form settings and setup a new Billingo feed, where you can setup your "
+"customer and invoice data."
+msgstr ""
+
+#: class-gf-billingo.php:510
+msgid "Single item with the total cost"
+msgstr ""
+
+#: class-gf-billingo.php:1532
+msgid "Skrill"
+msgstr ""
+
+#: class-gf-billingo.php:388
+msgid "Slovak"
+msgstr ""
+
+#: class-gf-billingo.php:1531
+msgid "SZÉP card"
+msgstr ""
+
+#: class-gf-billingo.php:324 class-gf-billingo.php:556
+msgid "TAX rate"
+msgstr ""
+
+#: includes/views/html-notice-welcome.php:11
+msgid ""
+"Thank you for installing this extension. Go to the settings page to specify "
+"your API key. To generate an invoice, go to your form settings and setup a "
+"Billingo feed, pairing your form fields with the invoice data."
+msgstr ""
+
+#: includes/views/html-notice-error.php:11
+#, php-format
+msgid ""
+"The invoice for order %s could not be created automatically for some reason. "
+"You will see the exact error in the order notes."
+msgstr ""
+
+#: class-gf-billingo.php:1262
+msgid "The invoice has already been marked as paid."
+msgstr ""
+
+#: class-gf-billingo.php:545
+msgid ""
+"The invoice will be generated only if this condition is met. You can "
+"generate multiple feeds with different conditions."
+msgstr ""
+
+#: class-gf-billingo.php:334
+msgid "This changes the total value on the invoice."
+msgstr ""
+
+#: class-gf-billingo.php:327
+msgid ""
+"This tax rate will be applied to all items on the invoice. The prices should "
+"be gross on the form."
+msgstr ""
+
+#: class-gf-billingo.php:411
+msgid "This will be the payment method on the invoice."
+msgstr ""
+
+#: class-gf-billingo.php:170
+#, php-format
+msgid "To generate an invoice, enter your API key in the %ssettings%s."
+msgstr ""
+
+#: class-gf-billingo.php:715
+msgid ""
+"To generate an invoice, you need to specify your API key in the plugin "
+"settings!"
+msgstr ""
+
+#: class-gf-billingo.php:1533
+msgid "Transferwise"
+msgstr ""
+
+#: class-gf-billingo.php:1592
+msgid ""
+"Unable to activate the PRO version. Please make sure all the details are "
+"correct."
+msgstr ""
+
+#: class-gf-billingo.php:887
+msgid "Unable to create the customer."
+msgstr ""
+
+#: class-gf-billingo.php:1629
+msgid ""
+"Unable to deactivate the PRO version. Please make sure all the details are "
+"correct."
+msgstr ""
+
+#: class-gf-billingo.php:1534
+msgid "Upwork"
+msgstr ""
+
+#: class-gf-billingo.php:477
+msgid "VAT number"
+msgstr ""
+
+#: class-gf-billingo.php:1223
+msgid "View"
+msgstr ""
+
+#: class-gf-billingo.php:729 class-gf-billingo.php:1129
+msgid "View invoice"
+msgstr ""
+
+#. Author of the plugin
+msgid "Viszt Péter"
+msgstr ""
+
+#: class-gf-billingo.php:736 class-gf-billingo.php:1222
+msgid "Void invoice"
+msgstr ""
+
+#: class-gf-billingo.php:1223
+msgid "Void invoice generated:"
+msgstr ""
+
+#: class-gf-billingo.php:1216
+msgid "Void invoice successfully generated."
+msgstr ""
+
+#: class-gf-billingo.php:1219
+msgid "Void invoice successfully generated: "
+msgstr ""
+
+#: class-gf-billingo.php:771
+msgid "Void invoice:"
+msgstr ""
+
+#: class-gf-billingo.php:1535
+msgid "Voucher"
+msgstr ""
+
+#: class-gf-billingo.php:1511
+msgid "Wire transfer"
+msgstr ""
+
+#: includes/views/html-notice-request-review.php:10
+msgid "Yes, i will rate it!"
+msgstr ""
+
+#: class-gf-billingo.php:349
+msgid ""
+"You can create a document block on Billingo's website under Settings / "
+"Document blocks. If you don't see your document block in the dropdown, "
+"refresh the page."
+msgstr ""
+
+#: class-gf-billingo.php:341
+msgid ""
+"You can register your bank account number on Billingo's website under "
+"Settings / Bank accounts. If you don't see your bank account in the dropdown,"
+" refresh the page."
+msgstr ""

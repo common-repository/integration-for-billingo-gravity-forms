@@ -1,0 +1,760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Integration for Szamlazz.hu & WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-04 20:34+0000\n"
+"PO-Revision-Date: 2021-09-10 11:32+0000\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"Language: hu-HU\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Language: hu\n"
+"X-Source-Language: en\n"
+
+#: class-gf-billingo.php:319
+msgid "A note visible on the invoice"
+msgstr "Megjegyzés a számlán"
+
+#: class-gf-billingo.php:118
+msgid ""
+"Acitvate the PRO version using the license key you bought on <a href=\"https:"
+"//visztpeter.me\" target=\"_blank\">visztpeter.me</a>."
+msgstr ""
+"PRO verzió aktiválása, amihez a licensz kulcsot <a href=\"https://visztpeter."
+"me\" target=\"_blank\">itt</a> tudod megvenni."
+
+#: class-gf-billingo.php:132
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: class-gf-billingo.php:470
+msgid "Address (street, number)"
+msgstr "Cím(utca, házszám)"
+
+#: class-gf-billingo.php:1517
+msgid "Advance payment"
+msgstr "Előre utalás"
+
+#: class-gf-billingo.php:154 class-gf-billingo.php:267
+msgid "API V3 key"
+msgstr "API V3 kulcs"
+
+#: class-gf-billingo.php:292
+msgid "Automatic invoicing"
+msgstr "Automata számlakészítés"
+
+#: class-gf-billingo.php:338
+msgid "Bank account"
+msgstr "Bankszámlaszám"
+
+#: class-gf-billingo.php:1514
+msgid "Barion"
+msgstr "Barion"
+
+#: class-gf-billingo.php:1515
+msgid "Barter"
+msgstr "Barter"
+
+#: class-gf-billingo.php:607
+msgid "Bekapcsolás"
+msgstr "Bekapcsolás"
+
+#: class-gf-billingo.php:1537
+msgid "Bill of exchange"
+msgstr "Váltó"
+
+#: class-gf-billingo.php:149
+msgid "Billingo account settings"
+msgstr "Billingo fiók beállítások"
+
+#: class-gf-billingo.php:1055
+#, php-format
+msgid "Billingo invoice generation failed! Error code: %s"
+msgstr "Billingo számlakészítés sikertelen. Hibakód: %s"
+
+#: class-gf-billingo.php:880
+#, php-format
+msgid ""
+"Billingo invoice generation failed! Unable to create customer. Error code: %s"
+msgstr ""
+"Billingo számlakészítés sikertelen. Nem sikerült az ügyfelet létrehozni. "
+"Hibakód: %s"
+
+#: class-gf-billingo.php:1098
+msgid ""
+"Billingo proform invoice successfully generated and sent to the customer."
+msgstr "Billingo díjbekérő létrehozva és elküldve a vásárlónak."
+
+#: class-gf-billingo.php:1100
+msgid "Billingo proform invoice successfully generated."
+msgstr "Billingo díjbekérő létrehozva."
+
+#: class-gf-billingo.php:1109
+msgid "Billingo proform invoice successfully generated. Invoice number: "
+msgstr "Billingo díjbekérő létrehozva. Sorszám:"
+
+#: class-gf-billingo.php:1175
+#, php-format
+msgid "Billingo reverse invoice generation failed! Error code: %s"
+msgstr "Billingo sztornó számlakészítés sikertelen! Hibakód: %s"
+
+#. Description of the plugin
+msgid ""
+"Billingo összeköttetés automatikus számlakészítéshez a Gravity Forms-ban "
+"készített űrlapokhoz(nem hivatalos bővítmény)"
+msgstr ""
+"Billingo összeköttetés automatikus számlakészítéshez a Gravity Forms-ban "
+"készített űrlapokhoz(nem hivatalos bővítmény)"
+
+#: includes/views/html-notice-welcome.php:14
+msgid "Buy the PRO version"
+msgstr "PRO verzió megvásárlása"
+
+#: class-gf-billingo.php:263
+msgid "Can be anything, like invoice generation"
+msgstr "Bármi lehet, például számlakészítés"
+
+#: class-gf-billingo.php:1520
+msgid "Cash"
+msgstr "Készpénz"
+
+#: class-gf-billingo.php:1536
+msgid "Cash on delivery"
+msgstr "Utánvét"
+
+#: class-gf-billingo.php:456
+msgid "City"
+msgstr "Város"
+
+#: class-gf-billingo.php:442
+msgid "Company"
+msgstr "Céges"
+
+#: class-gf-billingo.php:1518
+msgid "Compensation"
+msgstr "Kompenzáció"
+
+#: class-gf-billingo.php:731
+msgid "Completed"
+msgstr "Fizetettnek jelölés"
+
+#: class-gf-billingo.php:542 class-gf-billingo.php:545
+#| msgid "Conditional logic"
+msgid "Conditional mode"
+msgstr "Feltételes mód"
+
+#: class-gf-billingo.php:449
+msgid "Country"
+msgstr "Ország"
+
+#: class-gf-billingo.php:1519
+msgid "Coupon"
+msgstr "Kupon"
+
+#: class-gf-billingo.php:1513
+msgid "Credit card"
+msgstr "Bankkártya"
+
+#: class-gf-billingo.php:380
+msgid "Croatian"
+msgstr "Horvát"
+
+#: class-gf-billingo.php:416
+msgid "Customer details"
+msgstr "Vásárló adatok"
+
+#: class-gf-billingo.php:130
+msgid "Deactivate"
+msgstr "Deaktiválás"
+
+#: class-gf-billingo.php:1521
+msgid "Deduction"
+msgstr "Levonás"
+
+#: class-gf-billingo.php:1371
+msgid "Documentation"
+msgstr "Dokumentáció"
+
+#: class-gf-billingo.php:720 class-gf-billingo.php:771
+msgid "Download"
+msgstr "Letöltés"
+
+#: class-gf-billingo.php:126
+msgid "E-mail address used for purchase"
+msgstr "Vásárláshoz használt e-mail cím"
+
+#: class-gf-billingo.php:123
+msgid "E-mail address:"
+msgstr "E-mail cím:"
+
+#: class-gf-billingo.php:280 class-gf-billingo.php:561
+msgid "Electronic"
+msgstr "Elektronikus"
+
+#: class-gf-billingo.php:421
+#| msgid "E-mail address"
+msgid "Email address"
+msgstr "Email cím"
+
+#: class-gf-billingo.php:368
+msgid "English"
+msgstr "Angol"
+
+#: class-gf-billingo.php:484
+msgid "EU Adószám"
+msgstr "EU Adószám"
+
+#: class-gf-billingo.php:1082 class-gf-billingo.php:1185
+msgid "Failed to create a download link for the invoice."
+msgstr "Nem sikerült létrehozni a letöltési linket a számlához."
+
+#: class-gf-billingo.php:1173
+msgid "Failed to create a reverse invoice."
+msgstr "Nem sikerült sztornó számlát készíteni."
+
+#: class-gf-billingo.php:1071
+msgid "Failed to email invoice."
+msgstr "Nem sikerült elküldeni emailben a számlát."
+
+#: class-gf-billingo.php:1295
+#, php-format
+msgid "Failed to mark the Billingo invoice as paid! Error code: %s"
+msgstr "Nem sikerült fizetettnek jelölni a Billingo számlát! Hibakód: %s"
+
+#: class-gf-billingo.php:1293
+msgid "Failed to mark the invoice as paid."
+msgstr "Nem sikerült fizetettnek jelölni a számlát."
+
+#: class-gf-billingo.php:259
+msgid "Feed name"
+msgstr "Feed neve"
+
+#: class-gf-billingo.php:435
+msgid "First name"
+msgstr "Keresztnév"
+
+#: class-gf-billingo.php:531
+msgid "For example pcs"
+msgstr "Például db"
+
+#: class-gf-billingo.php:376
+msgid "French"
+msgstr "Francia"
+
+#: class-gf-billingo.php:754
+msgid "Fullfilment date"
+msgstr "Teljesítés dátuma"
+
+#: class-gf-billingo.php:544
+msgid "Generate invoice, if "
+msgstr "Számla készítése, ha"
+
+#: class-gf-billingo.php:514
+msgid "Generate items based on the products"
+msgstr "Tételek létrehozása automatán a termék mezőkből"
+
+#: class-gf-billingo.php:744
+#| msgid "Create invoice"
+msgid "Genrate invoice"
+msgstr "Számlakészítés"
+
+#: class-gf-billingo.php:364
+msgid "German"
+msgstr "Német"
+
+#: includes/views/html-notice-welcome.php:10
+msgid "Gravity Forms + Billingo"
+msgstr "Gravity Forms + Billingo"
+
+#: class-gf-billingo.php:1516
+msgid "Health insurance card"
+msgstr "Egészségpénztári kártya"
+
+#. URI of the plugin
+#| msgid "http://visztpeter.me"
+msgid "https://visztpeter.me"
+msgstr "https://visztpeter.me"
+
+#: class-gf-billingo.php:360
+msgid "Hungarian"
+msgstr "Magyar"
+
+#: class-gf-billingo.php:271
+msgid "If left empty, it will use the value set in plugin settings"
+msgstr ""
+"Hagyd üresen, akkor a bővítmény beállításában lévő értéket fogja használni"
+
+#: class-gf-billingo.php:399
+msgid ""
+"If turned on, Billingo will email the customer about the invoice "
+"automatically."
+msgstr ""
+"Ha be van kapcsolva, akkor a vásárlónak a Billingo kiküldi a számlaértesítőt "
+"automatán."
+
+#: includes/views/html-notice-request-review.php:8
+#, php-format
+msgid ""
+"If you like the %sGravity Forms Billingo%s extension, please leave a rating "
+"on WordPress.org, it just takes a minute to do. Thanks!"
+msgstr ""
+"Szia! Tetszik a %sGravity Forms Billingo%s bővítmény? Kérlek, értékeld a "
+"WordPress.org-on. Csak egy perc az egész. Köszönöm!"
+
+#: includes/views/html-notice-welcome.php:12
+msgid ""
+"In order to use every function, like automatic invoicing, language settings "
+"and more, you might need the PRO version."
+msgstr ""
+"Az automata számlakészítés és egyéb extra beállítások a PRO verzióban "
+"érhetők el."
+
+#. Name of the plugin
+msgid "Integration for Billingo & Gravity Forms"
+msgstr "Gravity Forms Billingo összeköttetés"
+
+#: class-gf-billingo.php:760
+msgid "Invoice"
+msgstr "Számla"
+
+#: class-gf-billingo.php:346
+msgid "Invoice block"
+msgstr "Számlatömb"
+
+#: class-gf-billingo.php:727 class-gf-billingo.php:1113
+msgid "Invoice generated and sent to the customer."
+msgstr "Számla létrehozva és elküldve a vásárlónak. "
+
+#: includes/views/html-notice-error.php:10
+msgid "Invoice generation failed"
+msgstr "Sikertelen számlakészítés"
+
+#: class-gf-billingo.php:1062
+msgid "Invoice generation failed for an unknown reason."
+msgstr "Valamiért nem sikerült létrehozni a számlát."
+
+#: class-gf-billingo.php:1053
+msgid "Invoice generation failed."
+msgstr "Sikertelen számlakészítés."
+
+#: class-gf-billingo.php:354
+msgid "Invoice language"
+msgstr "Számla nyelve"
+
+#: class-gf-billingo.php:499
+msgid "Invoice line items"
+msgstr "Számla tételek"
+
+#: class-gf-billingo.php:1161 class-gf-billingo.php:1255
+msgid "Invoice not found."
+msgstr "Nem található a számla."
+
+#: class-gf-billingo.php:396
+msgid "Invoice notification"
+msgstr "Számlaértesítő"
+
+#: class-gf-billingo.php:728
+#| msgid "Invoice number"
+msgid "Invoice number:"
+msgstr "Sorszám:"
+
+#: class-gf-billingo.php:255
+msgid "Invoice settings"
+msgstr "Számla beállítások"
+
+#: class-gf-billingo.php:1115
+msgid "Invoice successfully generated."
+msgstr "Számla sikeresen létrehozva."
+
+#: class-gf-billingo.php:1124
+msgid "Invoice successfully generated. Invoice number: "
+msgstr "Számla sikeresen létrehova. Sorszám: "
+
+#: class-gf-billingo.php:1306 class-gf-billingo.php:1308
+msgid "Invoice successfully marked as paid"
+msgstr "Számla sikeresen fizetettnek jelölve"
+
+#: class-gf-billingo.php:1300
+msgid "Invoice successfully marked as paid."
+msgstr "Számla sikeresen fizetettnek jelölve."
+
+#: class-gf-billingo.php:274 class-gf-billingo.php:555
+#: class-gf-billingo.php:757
+msgid "Invoice type"
+msgstr "Számla típusa"
+
+#: class-gf-billingo.php:372
+msgid "Italian"
+msgstr "Olasz"
+
+#: class-gf-billingo.php:521
+msgid "Item name"
+msgstr "Tétel elnevezése"
+
+#: class-gf-billingo.php:528
+msgid "Item quantity unit"
+msgstr "Mennyiségi egység"
+
+#: class-gf-billingo.php:313
+msgid "Just enter a number"
+msgstr "Csak számot kell megadni"
+
+#: class-gf-billingo.php:428
+msgid "Last name"
+msgstr "Vezetéknév"
+
+#: class-gf-billingo.php:125
+msgid "License key"
+msgstr "Licensz kulcs"
+
+#: class-gf-billingo.php:122
+msgid "License key:"
+msgstr "Licensz kulcs:"
+
+#: class-gf-billingo.php:502
+msgid "Line items"
+msgstr "Tételek"
+
+#: class-gf-billingo.php:1512
+msgid "Loan"
+msgstr "Áruhitel"
+
+#: class-gf-billingo.php:304
+msgid "Mark as paid"
+msgstr "Fizetettnek jelölés"
+
+#: class-gf-billingo.php:733
+#| msgid "Mark as paid "
+msgid "Marked as paid"
+msgstr "Fizetettnek jelölés"
+
+#: class-gf-billingo.php:554
+msgid "Name"
+msgstr "Név"
+
+#: includes/views/html-notice-request-review.php:12
+msgid "No, thanks"
+msgstr "Nem, köszönöm"
+
+#: class-gf-billingo.php:1553
+msgid "None"
+msgstr "Nincs"
+
+#: class-gf-billingo.php:317 class-gf-billingo.php:750
+msgid "Note"
+msgstr "Megjegyzés"
+
+#: class-gf-billingo.php:1522
+msgid "Online credit card"
+msgstr "Online bankkártya"
+
+#: class-gf-billingo.php:742
+msgid "Options"
+msgstr "Opciók"
+
+#: includes/views/html-notice-error.php:13
+msgid "Order details"
+msgstr "Rendelés adatai"
+
+#: class-gf-billingo.php:538
+msgid "Other settings"
+msgstr "Egyéb beállítások"
+
+#: class-gf-billingo.php:284 class-gf-billingo.php:561
+msgid "Paper"
+msgstr "Papír"
+
+#: class-gf-billingo.php:1526
+msgid "Paylike"
+msgstr "Paylike"
+
+#: class-gf-billingo.php:310 class-gf-billingo.php:752
+msgid "Payment deadline(days)"
+msgstr "Fizetési határidő(nap)"
+
+#: class-gf-billingo.php:407
+msgid "Payment method"
+msgstr "Fizetési mód"
+
+#: class-gf-billingo.php:1527
+msgid "Payoneer"
+msgstr "Payoneer"
+
+#: class-gf-billingo.php:1523
+msgid "PayPal"
+msgstr "PayPal"
+
+#: class-gf-billingo.php:1524
+msgid "PayPal post-paid"
+msgstr "PayPal Utólag fizetve"
+
+#: class-gf-billingo.php:1525
+msgid "PayU"
+msgstr "PayU"
+
+#: class-gf-billingo.php:533
+msgid "pcs"
+msgstr "db"
+
+#: class-gf-billingo.php:491
+msgid "Phone number"
+msgstr "Telefonszám"
+
+#: class-gf-billingo.php:1528
+msgid "Pick Pack Pont"
+msgstr "Pick Pack Pont"
+
+#: class-gf-billingo.php:1529
+msgid "Post office cheque"
+msgstr "Postai csekk"
+
+#: class-gf-billingo.php:1530
+msgid "Postal voucher"
+msgstr "Postautalvány"
+
+#: class-gf-billingo.php:463
+msgid "Postcode"
+msgstr "Irányítószám"
+
+#: class-gf-billingo.php:144
+msgid "PRO version"
+msgstr "PRO verzió"
+
+#: class-gf-billingo.php:121
+msgid "PRO version is active"
+msgstr "PRO verzió aktív"
+
+#: class-gf-billingo.php:298 class-gf-billingo.php:764
+msgid "Proform"
+msgstr "Díjbekérő"
+
+#: class-gf-billingo.php:1223
+msgid "Refresh this page to generate a new invoice."
+msgstr "Az oldal frissítése után van lehetőség új számlát készíteni"
+
+#: includes/views/html-notice-request-review.php:11
+msgid "Remind me later"
+msgstr "Emlékeztessen később"
+
+#: class-gf-billingo.php:384
+msgid "Romanian"
+msgstr "Román"
+
+#: class-gf-billingo.php:1554
+msgid "Round to 1"
+msgstr "1-re"
+
+#: class-gf-billingo.php:1556
+msgid "Round to 10"
+msgstr "10-re"
+
+#: class-gf-billingo.php:1555
+msgid "Round to 5"
+msgstr "5-re"
+
+#: class-gf-billingo.php:331
+msgid "Rounding"
+msgstr "Kerekítés"
+
+#: class-gf-billingo.php:1370 includes/views/html-notice-welcome.php:15
+msgid "Settings"
+msgstr "Beállítások"
+
+#: class-gf-billingo.php:150
+msgid ""
+"Sign in into your Billingo account and generate a new API V3 key. Next, go "
+"to the form settings and setup a new Billingo feed, where you can setup your "
+"customer and invoice data."
+msgstr ""
+"Lépj be a Billingo fiókodba és generálj egy új API V3 kulcsot. Utána az "
+"űrlap beállításoknál hozz létre egy új Billingo feed-et, itt pedig párosítsd "
+"össze az űrlapod adatait a számla adatokkal. "
+
+#: class-gf-billingo.php:510
+msgid "Single item with the total cost"
+msgstr "Egy tétel a végösszeg mező árával"
+
+#: class-gf-billingo.php:1532
+msgid "Skrill"
+msgstr "Skrill"
+
+#: class-gf-billingo.php:388
+msgid "Slovak"
+msgstr "Szlovák"
+
+#: class-gf-billingo.php:1531
+msgid "SZÉP card"
+msgstr "SZÉP kártya"
+
+#: class-gf-billingo.php:324 class-gf-billingo.php:556
+msgid "TAX rate"
+msgstr "Áfakulcs"
+
+#: includes/views/html-notice-welcome.php:11
+msgid ""
+"Thank you for installing this extension. Go to the settings page to specify "
+"your API key. To generate an invoice, go to your form settings and setup a "
+"Billingo feed, pairing your form fields with the invoice data."
+msgstr ""
+"Köszönöm, hogy telepítetted ezt a bővítményt. A beállítások oldalon add meg "
+"a Billingo API kulcsodat. Utána az űrlap beállításoknál hozz létre egy "
+"Billingo feed-et és párosítsd össze az űrlap adatait a számla adatokkal."
+
+#: includes/views/html-notice-error.php:11
+#, php-format
+msgid ""
+"The invoice for order %s could not be created automatically for some reason. "
+"You will see the exact error in the order notes."
+msgstr ""
+"A #%s sorszámú rendeléshez tartozó számlát nem sikerült valamiért létrehozni "
+"automatikusan. A rendelés jegyzetekben látod a pontos hibát."
+
+#: class-gf-billingo.php:1262
+msgid "The invoice has already been marked as paid."
+msgstr "A számla már fizetettnek lett jelölve."
+
+#: class-gf-billingo.php:545
+msgid ""
+"The invoice will be generated only if this condition is met. You can "
+"generate multiple feeds with different conditions."
+msgstr ""
+"Csak akkor készül el a számla, ha az itt megadott feltétel teljesül. Több "
+"feedet is létrehozhatsz egy űrlaphoz így, különböző beállításokkal."
+
+#: class-gf-billingo.php:334
+msgid "This changes the total value on the invoice."
+msgstr "Ez a végösszegeket kerekíti a számlán a beállítás szerint."
+
+#: class-gf-billingo.php:327
+msgid ""
+"This tax rate will be applied to all items on the invoice. The prices should "
+"be gross on the form."
+msgstr ""
+"A kiválasztott áfakulcs a számlán lévő összes tételre érvényes lesz. Az "
+"űrlap által elmentett árakat bruttóként kezeli."
+
+#: class-gf-billingo.php:411
+msgid "This will be the payment method on the invoice."
+msgstr "Ez lesz ráírva a számlára fizetési módként."
+
+#: class-gf-billingo.php:170
+#, php-format
+msgid "To generate an invoice, enter your API key in the %ssettings%s."
+msgstr "A számla létrehozásához add meg az API kucsot a %sbeállításokban%s."
+
+#: class-gf-billingo.php:715
+msgid ""
+"To generate an invoice, you need to specify your API key in the plugin "
+"settings!"
+msgstr "A számla létrehozásához add meg az API kucsodat a beállításokban!"
+
+#: class-gf-billingo.php:1533
+msgid "Transferwise"
+msgstr "Transferwise"
+
+#: class-gf-billingo.php:1592
+msgid ""
+"Unable to activate the PRO version. Please make sure all the details are "
+"correct."
+msgstr ""
+"Nem sikerült aktiválni a PRO verziót. Ellenőrizd az adatokat és próbáld meg "
+"újra."
+
+#: class-gf-billingo.php:887
+msgid "Unable to create the customer."
+msgstr "Nem sikerült létrehozni az ügyfelet."
+
+#: class-gf-billingo.php:1629
+msgid ""
+"Unable to deactivate the PRO version. Please make sure all the details are "
+"correct."
+msgstr ""
+"Nem sikerült deaktiválni a PRO verziót. Ellenőrizd az adatokat és próbáld "
+"meg újra."
+
+#: class-gf-billingo.php:1534
+msgid "Upwork"
+msgstr "Upwork"
+
+#: class-gf-billingo.php:477
+msgid "VAT number"
+msgstr "Adószám"
+
+#: class-gf-billingo.php:1223
+msgid "View"
+msgstr "Megtekintés"
+
+#: class-gf-billingo.php:729 class-gf-billingo.php:1129
+msgid "View invoice"
+msgstr "Számla megtekintése"
+
+#. Author of the plugin
+msgid "Viszt Péter"
+msgstr "Viszt Péter"
+
+#: class-gf-billingo.php:736 class-gf-billingo.php:1222
+msgid "Void invoice"
+msgstr "Sztornó számla"
+
+#: class-gf-billingo.php:1223
+msgid "Void invoice generated:"
+msgstr "Sztornó számla létrehozva:"
+
+#: class-gf-billingo.php:1216
+#| msgid "Deposit invoice successfully generated."
+msgid "Void invoice successfully generated."
+msgstr "Sztornó számla sikeresen létrehozva."
+
+#: class-gf-billingo.php:1219
+#| msgid "Proforma invoice successfully generated."
+msgid "Void invoice successfully generated: "
+msgstr "Sztornó számla sikeresen létrehozva:"
+
+#: class-gf-billingo.php:771
+msgid "Void invoice:"
+msgstr "Sztornó számla:"
+
+#: class-gf-billingo.php:1535
+msgid "Voucher"
+msgstr "Utalvány"
+
+#: class-gf-billingo.php:1511
+msgid "Wire transfer"
+msgstr "Átutalás"
+
+#: includes/views/html-notice-request-review.php:10
+msgid "Yes, i will rate it!"
+msgstr "Igen, értékelem!"
+
+#: class-gf-billingo.php:349
+#| msgid ""
+#| "You can create a document block on Billingo's website under Settings / "
+#| "Document blocks. If you don't see your document block in the dropdown, "
+#| "click on the refresh icon."
+msgid ""
+"You can create a document block on Billingo's website under Settings / "
+"Document blocks. If you don't see your document block in the dropdown, "
+"refresh the page."
+msgstr ""
+"Új számlatömböt a Billingo weboldalán a Beállítások / Számlatömbök "
+"menüpontban tudsz létrehozni. Ha nem látod a legördülőben a létrehozott "
+"számlatömböt, frissítsd az oldalt."
+
+#: class-gf-billingo.php:341
+#| msgid ""
+#| "You can register your bank account number on Billingo's website under "
+#| "Settings / Bank accounts. If you don't see your bank account in the "
+#| "dropdown, click on the refresh icon."
+msgid ""
+"You can register your bank account number on Billingo's website under "
+"Settings / Bank accounts. If you don't see your bank account in the dropdown,"
+" refresh the page."
+msgstr ""
+"Új bankszámlaszámot a Billingo weboldalán a Beállítások / Számlaszámok "
+"menüpontban tudsz létrehozni. Ha nem látod a legördülőben a létrehozott "
+"számlaszámot, frissítsd az oldalt."
